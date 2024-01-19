@@ -370,7 +370,7 @@ public final class Settings {
     /**
      * How many ticks between right clicks are allowed. Default in game is 4
      */
-    public final Setting<Integer> rightClickSpeed = new Setting<>(4);
+    public final Setting<Integer> rightClickSpeed = new Setting<>(7);
 
     /**
      * How many degrees to randomize the yaw every tick. Set to 0 to disable
